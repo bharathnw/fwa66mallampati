@@ -1,3 +1,3 @@
 # fwa66mallampati
 
-[Hosted at](https://fwa66mallampati.herokuapp.com/)
+Hosted at: [Heroku](https://fwa66mallampati.herokuapp.com/)
